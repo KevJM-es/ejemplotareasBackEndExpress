@@ -2,7 +2,7 @@
 Back End Ejemplo de Tareas con Express Nodejs.
 Una pequeña aplicación de ejemplo para usarla en forma de despliegue de una apps, representa el backend y esta montada empleando NodeJS, debes tener instalado una version de node 12
 
-### Configuracion
+### Configuracionn
 
 Este proyecto requiere una base de datos de MongoDB, la cual emplearemos desde la nube usando la cuenta gratis de Atlas Mongodb.
 Se debe crear:
